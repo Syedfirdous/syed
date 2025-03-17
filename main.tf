@@ -1,5 +1,5 @@
-resource "local_file" "my-pet" {
-filename = "pets.txt"
-content = "I love cats!"
+resource "local_file" "my-tiger" {
+filename = "tiger.txt"
+content = "I love tiger!"
 
 }
